@@ -1,4 +1,4 @@
-#DAY-03
+# Day-03
 1. GIT HUB 
     1. vs-code
     1. create console app- dotnet new --name AppName
@@ -9,3 +9,6 @@
 1. Creating and running first console app
 1. program.cs and .csproj file are only important here
 1. bin and obj are not impo so we can also delete it we should not put it in git or git hub it creates it selt.
+
+# Assignment
+1. Write a C# program to get user address and print that address on console in upper case.
