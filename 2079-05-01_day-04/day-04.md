@@ -52,7 +52,7 @@
 
 
 # Assignment
-1. Declare and initialize-variables to represent age, name, gender ad weight of a person. Gender of that person should be nullable.
+1. Declare and initialize-variables to represent age, name, gender and weight of a person. Gender of that person should be nullable.
 
         
 
