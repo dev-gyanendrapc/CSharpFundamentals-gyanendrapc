@@ -7,7 +7,7 @@
     internal string? email;
     internal string? contact;
     internal decimal salary=0;
-    internal bool isMale;
+    internal bool? isMale;
     internal byte role;
     internal DateTime createdDate;
 
