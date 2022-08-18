@@ -17,7 +17,7 @@
     {
         string gender = (isMale == true?"Male":isMale==false?"Female":"Others");
         string empRole = (role==0?"Manager":"Employee");
-        System.Console.WriteLine($"Name : {fullName} \nAddress : {address} \nEmail : {email}\nContact : {contact}\nSalary : {salary} \nGender : {gender} \nRole : {empRole} \nCreated Date : {createdDate}");
+        System.Console.WriteLine($"Name : {fullName} \nAddress : {address} \nEmail : {email}\nContact : {contact}\nSalary : {salary:C2} \nGender : {gender} \nRole : {empRole} \nCreated Date : {createdDate}");
 
     }
 
