@@ -5,14 +5,14 @@
 */
 byte age;
 string name;
-string? gender;
-ushort weight;
+char? gender;
+float weight;
 
 //initializing
 age = 25;
 name = "John";
-gender = "Male";
-weight = 60;
+gender = 'M';
+weight = 60.50f;
 
 
 Console.WriteLine($"Name : {name} \nAge : {age} \nGender : {gender} \nWeight : {weight}");
