@@ -14,12 +14,12 @@ DOTNET-COMMANDS
 ### Managing projects
 | S.NO.     | Syntax     | Description      |
 | --------- | ---------- | ---------------- |
-| • |dotnet restore | This downloads dependencies for the project. |
-| • |dotnet build | This builds, aka compiles, the project. |
-| • |dotnet test | This builds and then runs unit tests for the project. |
-| • |dotnet run | This builds and then runs the project.|
-| • |dotnet pack | This creates a NuGet package for the project. |
-| • |dotnet publish | This builds and then publishes the project, either with dependencies or as a self-contained application. |
-| • |dotnet add | This adds a reference to a package or class library to the project. |
-| • |dotnet remove | This removes a reference to a package or class library from the project. |
-| • |dotnet list | This lists the package or class library references for the project |
+| 1 |dotnet restore | This downloads dependencies for the project. |
+| 2 |dotnet build | This builds, aka compiles, the project. |
+| 3 |dotnet test | This builds and then runs unit tests for the project. |
+| 4 |dotnet run | This builds and then runs the project.|
+| 5 |dotnet pack | This creates a NuGet package for the project. |
+| 6 |dotnet publish | This builds and then publishes the project, either with dependencies or as a self-contained application. |
+| 7 |dotnet add | This adds a reference to a package or class library to the project. |
+| 8 |dotnet remove | This removes a reference to a package or class library from the project. |
+| 9 |dotnet list | This lists the package or class library references for the project |
