@@ -9,10 +9,10 @@
 
 DOTNET-COMMANDS
 ===============
-| S.NO.     | Syntax     | Description      |
-| 1 | dotnet new --list |lists all the currently installed templates |
-| 2 | dotnet new --l | lists all the currently installed templates |
-| 3 | dotnet --info | It is useful to see what .NET SDKs and runtimes are currently installed, alongside information 
+| S.NO.     | Syntax            | Description                                |
+| 1         | dotnet new --list |lists all the currently installed templates |
+| 2         | dotnet new --l    | lists all the currently installed templates|
+| 3         | dotnet --info     | It is useful to see what .NET SDKs and runtimes are currently installed, alongside information 
 about the operating system |
 
 ### Managing projects
