@@ -5,8 +5,8 @@ class Solutions
 {
     public void EvenOdd()
     {
-        WriteLine("Enter your number.");
-        var num = ToInt32(ReadLine());
+        WriteLine("Program To Find Even Or Odd");
+        var num = 10;
         if (num % 2 == 0)
         {
             WriteLine($"{num} is even");
@@ -18,6 +18,7 @@ class Solutions
     }
     public void SISurpluss()
     {
+        WriteLine("Program To Find If Interest Is Greater Than Principle Amount:");
         WriteLine("Enter your p.");
         var p = ToDecimal(ReadLine());
         WriteLine("Enter your t.");
