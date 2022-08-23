@@ -6,7 +6,7 @@ class Solutions
     public void EvenOdd()
     {
         WriteLine("Enter your number.");
-        int num = ToInt32(ReadLine());
+        var num = ToInt32(ReadLine());
         if (num % 2 == 0)
         {
             WriteLine($"{num} is even");

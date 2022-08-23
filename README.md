@@ -2,6 +2,12 @@
  This repository is created by *gyanendrapc* under the guidance of bishnu-kuwar sir.
  This repository covers all the essentials notes and programs about *CSharp* and *DotNet* technologies.
 
+GIT-COMMANDS
+============
+| SNO | CMD | DESCRIPTION |
+| --- | --- | ----------- |
+| 1   | git status | check status |
+
 DOTNET-COMMANDS
 ===============
 ### General projects
