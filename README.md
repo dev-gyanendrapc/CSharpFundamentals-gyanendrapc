@@ -7,6 +7,9 @@ GIT-COMMANDS
 | SNO | CMD | DESCRIPTION |
 | --- | --- | ----------- |
 | 1   | git status | check status |
+| 2   | git add --all, git add ., git add file or folder | check add files to git |
+| 3   | git commit -m "Your message" | commit git added files with some message |
+| 4   | git push | push files to remote |
 
 DOTNET-COMMANDS
 ===============
