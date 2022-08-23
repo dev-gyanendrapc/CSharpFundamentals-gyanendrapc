@@ -1,3 +1,4 @@
 ﻿Solutions sn = new();
-// sn.PrintOdd();
+sn.PrintOdd();
+sn.PrintEven();
 sn.MulTable();
