@@ -27,11 +27,11 @@ class Solutions
         var si= ((p*t*r)/100);
         if (si > p)
         {
-            WriteLine("surplus occured");
+            WriteLine($"interest {si} surpasses principal amount {p}.");
         }
         else
         {
-            WriteLine("surplus not occured");
+            WriteLine($"interest {si} not surpasses principal amount {p}.");
         }
     }
 }
